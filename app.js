@@ -1,6 +1,6 @@
 //define the global variables
 //current weather URL
-const apiKey = "apiKey";
+const apiKey = "57aebe01c0e3359cbf54a91bdaee2135";
 let currentUrl = "https://api.openweathermap.org/data/2.5/weather?";
 let currentParams = "&units=metric&mode=JSON";
 // forecast URL
